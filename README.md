@@ -2,7 +2,7 @@
 <h1>What this Script do?</h1>
 
 
-This script simply Shuts down your Chrome, if you ever watch Youtube for more then 45mins.😥
+This script simply Shuts down your Chrome, if you ever watch Youtube for more then 45mins.
 
 
 <h2>How to Run this ?</h2>
